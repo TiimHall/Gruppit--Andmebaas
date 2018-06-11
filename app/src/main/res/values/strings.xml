@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteAndmebaas</string>
+    <string name="email">email</string>
+    <string name="password">salasõna</string>
+    <string name="login">Logi sisse</string>
+    <string name="katsed">Katseid on jäänud veel</string>
+    <string name="unustatud">Unustasid salasõna?</string>
+    <string name="registreeri">Registreeri kasutajaks</string>
+    <string name="lähtesta">Lähtesta parool</string>
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "399593726757",
+    "firebase_url": "https://sqliteandmebaas2.firebaseio.com",
+    "project_id": "sqliteandmebaas2",
+    "storage_bucket": "sqliteandmebaas2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399593726757:android:eb204ef9635de05c",
+        "android_client_info": {
+          "package_name": "com.example.irinaru.sqliteandmebaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399593726757-l85p15athhfqmgditjiup40j6ur1s2le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irinaru.sqliteandmebaas",
+            "certificate_hash": "4a321f97124179c7a6cd245537258cd6c2462a45"
+          }
+        },
+        {
+          "client_id": "399593726757-nm6uaurkne371amg1066pp8vevucmhd9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "399593726757-nm6uaurkne371amg1066pp8vevucmhd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3YP5XPlANY8AhoKe8FIjd6ebX1TA_Xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399593726757-nm6uaurkne371amg1066pp8vevucmhd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
