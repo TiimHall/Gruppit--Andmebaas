@@ -7,4 +7,8 @@
     <string name="unustatud">Unustasid salasõna?</string>
     <string name="registreeri">Registreeri kasutajaks</string>
     <string name="lähtesta">Lähtesta parool</string>
+    <string name="register">Registreeri</string>
+    <string name="perenimi">Perekonnanimi</string>
+    <string name="eesnimi">Eesnimi</string>
+    <string name="pilt">Lisa pilt</string>
 </resources>

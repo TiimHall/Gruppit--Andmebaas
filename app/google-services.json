@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "399593726757-mboqbins20dg40kfmf08mvdqpvbmagte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irinaru.sqliteandmebaas",
+            "certificate_hash": "b38afaa780e9445d4051f849d895399cfffa8909"
+          }
+        },
+        {
           "client_id": "399593726757-l85p15athhfqmgditjiup40j6ur1s2le.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

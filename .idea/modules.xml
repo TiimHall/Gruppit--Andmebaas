@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Andmebaas2.iml" filepath="$PROJECT_DIR$/Andmebaas2.iml" />
+      <module fileurl="file://C:\Users\opilane\StudioProjects\Gruppit--Andmebaas\Andmebaas2.iml" filepath="C:\Users\opilane\StudioProjects\Gruppit--Andmebaas\Andmebaas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gruppit--Andmebaas.iml" filepath="$PROJECT_DIR$/Gruppit--Andmebaas.iml" />
       <module fileurl="file://C:\Users\IrinaRu\AndroidStudioProjects\Andmebaas2\SQLiteAndmebaas2.iml" filepath="C:\Users\IrinaRu\AndroidStudioProjects\Andmebaas2\SQLiteAndmebaas2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\IrinaRu\AndroidStudioProjects\Andmebaas2\app\app.iml" filepath="C:\Users\IrinaRu\AndroidStudioProjects\Andmebaas2\app\app.iml" />
